@@ -80,6 +80,8 @@
 								el.addClass('fadeInLeft animated');
 							} else if ( effect === 'fadeInRight') {
 								el.addClass('fadeInRight animated');
+							} else if ( effect === 'fadeInDown') {
+								el.addClass('fadeInDown animated');
 							} else {
 								el.addClass('fadeInUp animated');
 							}
